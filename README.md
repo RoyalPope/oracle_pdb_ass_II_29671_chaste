@@ -39,13 +39,13 @@ This assignment demonstrates practical knowledge of Oracle 21c Multitenant Archi
 # ✅ Task 1: Creation of Main Pluggable Database
 
 ### 🔹 PDB Name
-`ch_pdb_2024101`
+`ch_pdb_29671`
 
 ### 🔹 PDB Administrator
 `pdbadmin`
 
 ### 🔹 Local Application User
-`chaste_plsqlauca_2024101`
+`chaste_plsqlauca_29671`
 
 ### 🔹 Implementation Summary
 
@@ -69,7 +69,7 @@ This assignment demonstrates practical knowledge of Oracle 21c Multitenant Archi
 # ✅ Task 2: Temporary PDB Creation and Deletion
 
 ### 🔹 Temporary PDB Name
-`ch_to_delete_pdb_2024101`
+`ch_to_delete_pdb_29671`
 
 ### 🔹 Implementation Summary
 
@@ -102,12 +102,12 @@ Oracle Database 21c uses Oracle Enterprise Manager Express (EM Express) for data
 - Confirmed access to the administrative dashboard.
 
 📸 **Evidence Provided:**
-- `08_oem_express_dashboard.png`
+- `08_oem_dashboard.png`
 
 ---
 
 # 📂 Repository Structure
-oracle_pdb_ass_II_[studentId]_[firstname]
+oracle_pdb_ass_II_29671_chaste
 │
 ├── README.md
 └── Screenshots/
